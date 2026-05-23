@@ -1,21 +1,35 @@
 <h1><strong>Hi there 👋</strong></h1>
 
- <h2><strong>🚀About Me</strong></h2>
+<h2><strong>🚀 About Me</strong></h2>
 
-👋 I’m Abdelrahman Sayed, a passionate Junior .NET Developer with a Bachelor's degree in Computer Science. I have a strong foundation in web development and a growing interest in the potential of AI technologies, particularly in Machine Learning (ML) and Deep Learning (DL).
+👋 I’m <strong>Abdelrahman Sayed</strong>, a <strong>Software Engineer | Full Stack .NET Developer</strong> with experience building scalable web applications, designing system architectures, and delivering enterprise software solutions.
 
-🔭 Currently, I’m working at the Ministry of Communications and Information Technology since December 2023. In my role, I’ve been focused on developing and maintaining dynamic web applications using ASP.NET Core and enhancing system performance with Entity Framework.
+💼 Currently, I’m working as a <strong>Software Engineer at Expertflow Egypt</strong>, where I develop and deploy production-grade applications, design backend architectures, mentor junior developers, and collaborate directly with enterprise customers to deliver tailored technical solutions.
 
-<strong>💡 Key Skills:</strong>
+Previously, I worked at the <strong>Ministry of Communications and Information Technology</strong>, where I developed and maintained multiple web applications and modernized legacy systems to improve scalability and performance.
 
-- <strong>Web Development:</strong> ASP.NET Core, C#, MVC, SQL Server
-Front-End Technologies:</strong> HTML5, CSS3, JavaScript, jQuery, AJAX
-- <strong>Database Management:</strong> Entity Framework, MySQL, SQL Server
-- <strong>Software Development:</strong> RESTful APIs, Git, Docker, Microservices
-- <strong>Machine Learning:</strong> Python (actively learning)
+<strong>💡 Technical Skills</strong>
 
-📄 My work includes projects that have significantly improved code performance and contributed to achieving departmental goals. For example, I recently updated a legacy .NET 4.1 project to .NET 8, adding new features that showcase the achievements of my department.
+- <strong>Backend & Programming:</strong> C#, ASP.NET Core MVC, Web API, .NET 6–8+, Entity Framework Core, Dapper, LINQ
+- <strong>Software Architecture:</strong> System Design, Database Design, SOLID Principles, Design Patterns
+- <strong>Frontend:</strong> HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, React.js (Familiar), Angular (Familiar)
+- <strong>Databases:</strong> SQL Server, MySQL, Redis
+- <strong>DevOps & Deployment:</strong> Docker, IIS Deployment, Azure DevOps (Repos, Pipelines, CI/CD)
+- <strong>Messaging & Integration:</strong> RabbitMQ, REST APIs, Cisco Systems Integration (CUIC, Finesse, ICM, VVB)
+- <strong>Development Practices:</strong> Agile Methodology, Jira, Code Reviews, Production Support & Troubleshooting
 
-🌱 I’m constantly learning and exploring new technologies to expand my skill set. I’m particularly excited about the intersection of web development and AI, where I’m actively working on personal projects involving ML and DL.
+🚀 <strong>Key Highlights</strong>
 
-📫 Feel free to reach out to me at: abdelrahmansayed865@gmail.com
+- Delivered and deployed <strong>6+ production-grade enterprise applications</strong>
+- Supported <strong>6 enterprise customers</strong> with technical and production support
+- Led legacy modernization projects and improved system reliability
+- Mentored <strong>3 junior developers</strong> through code reviews and technical guidance
+- Managed deployments using <strong>Docker</strong> and <strong>IIS</strong>
+
+🌱 I’m continuously expanding my expertise in <strong>software architecture, scalable backend systems, cloud technologies, and AI/ML</strong>.
+
+📫 <strong>Reach me at:</strong>  
+✉️ abdelrahmansayed865@gmail.com
+
+🔗 <strong>Portfolio:</strong> portfolio-abdelrahman-sayed.netlify.app  
+🔗 <strong>LinkedIn:</strong> linkedin.com/in/abdelrahman-sayed-672b731b7
